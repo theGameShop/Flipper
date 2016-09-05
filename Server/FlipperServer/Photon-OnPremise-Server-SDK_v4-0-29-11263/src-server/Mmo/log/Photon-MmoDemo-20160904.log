@@ -1,0 +1,119 @@
+2408: 21:46:42.761 - ---
+2408: 21:46:42.761 - Service: "Photon Socket Server" starting
+2408: 21:46:42.761 - Config File: D:\Work\theGameShop\git\Flipper\Server\FlipperServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\src-server\Mmo\PhotonServer.MmoDemo-Development.config
+2408: 21:46:42.766 - Will produce at most: 10 crash dumps
+2408: 21:46:42.766 - Action: run as exe
+2408: 21:46:42.766 - Server Starting...
+2408: 21:46:42.766 -    Tick count: 9670484 (wraps in: 49.5983 days)
+2408: 21:46:42.766 - Tick count 64: 9670484
+2408: 21:46:42.766 - Photon Version: 4.1.28.2936
+2408: 21:46:42.766 - PID: 11324
+2408: 21:46:42.779 - Config File: D:\Work\theGameShop\git\Flipper\Server\FlipperServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\src-server\Mmo\PhotonServer.MmoDemo-Development.config
+2408: 21:46:42.779 - Will NOT log unimportant exceptions
+2408: 21:46:42.781 - Performance counters NOT enabled, user must have SE_CREATE_GLOBAL_NAME privilege
+2408: 21:46:42.783 - Shutdown timeout enabled: 30000ms
+2408: 21:46:42.796 - Starting I/O thread pool with 2 threads
+2408: 21:46:42.796 - Using Standard allocator
+2408: 21:46:42.796 - Max message size: 512000
+2408: 21:46:42.796 - Starting business logic thread pool with the following settings
+2408: 21:46:42.796 - InitialThreads: 4 threads
+2408: 21:46:42.796 - MinThreads: 4 threads
+2408: 21:46:42.796 - Thread pool is fixed size
+2408: 21:46:42.796 - Starting ENet thread pool with the following settings
+2408: 21:46:42.796 - InitialThreads: 2 threads
+2408: 21:46:42.796 - MinThreads: 2 threads
+2408: 21:46:42.796 - Thread pool is fixed size
+2408: 21:46:42.796 - OnlyDispatchTimers: False
+2408: 21:46:42.796 - S2S: flow control: Max pending writes: 50
+2408: 21:46:42.796 - S2S: flow control: Max queued buffers: 200
+2408: 21:46:42.796 - S2S: flow control: Max pending writes MUX: 500
+2408: 21:46:42.796 - S2S: flow control: Max queued buffers MUX: 2000
+2408: 21:46:42.796 - S2S: MaxInboundMessageSize: 512000
+2408: 21:46:42.796 - S2S: MaxOutboundMessageSize: 512000
+2408: 21:46:42.796 - S2S: No inactivity timeout
+2408: 21:46:42.801 - WebSocket S2S: MaxInboundMessageSize: 512000
+2408: 21:46:42.801 - WebSocket S2S: MaxOutboundMessageSize: 512000
+2408: 21:46:42.801 - WebSocket S2S: No inactivity timeout
+2408: 21:46:42.801 - Max Reliable Data In Transit (awaiting ACKs) per peer : 51200 bytes
+2408: 21:46:42.801 - Per peer bandwidth limit
+2408: 21:46:42.801 - Transmit Rate Limit: 256 KB/Sec
+2408: 21:46:42.801 - Limit period: 200ms
+2408: 21:46:42.801 - Limit per period: 52428 bytes
+2408: 21:46:42.801 - Max queued data for transmission per peer: 512000 bytes
+2408: 21:46:42.801 - Minimum retransmit timeout: 200
+2408: 21:46:42.801 - No Maximum retransmit timeout
+2408: 21:46:42.801 - Minimum ENet timeout: 5000ms
+2408: 21:46:42.801 - Maximum ENet timeout: 30000ms
+2408: 21:46:42.801 - Max Inbound Reliable Data Queued (awaiting resends of earlier sequence numbers) per peer : 163840 bytes
+2408: 21:46:42.801 - No RTT ACK adjustment timeout
+2408: 21:46:42.801 - Outbound ENet: MaxInboundMessageSize: 512000
+2408: 21:46:42.801 - Outbound ENet: MaxOutboundMessageSize: 512000
+2408: 21:46:42.861 - GetRuntime - About to load CLR - versions available:
+2408: 21:46:42.861 - v2.0.50727
+2408: 21:46:42.861 - v4.0.30319
+2408: 21:46:42.861 - Configuration requests: "v2.0.50727"
+2408: 21:46:42.861 - About to load version: "v2.0.50727"
+2408: 21:46:42.941 - About to load runtime: PhotonHostRuntime.PhotonDomainManager from PhotonHostRuntime, Culture=neutral, PublicKeyToken=02C301B61B060C4D
+2408: 21:46:42.941 - CLRBaseDirectory set to "D:\Work\theGameShop\git\Flipper\Server\FlipperServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\src-server"
+2408: 21:46:42.941 - Optimising event broadcast for 20 or more peers
+2408: 21:46:42.941 - Start: About to load CLR - versions available:
+2408: 21:46:42.941 - v2.0.50727
+2408: 21:46:42.941 - v4.0.30319
+2408: 21:46:42.941 - Configuration requests: "v4.0"
+2408: 21:46:42.941 - About to load version: "v4.0"
+2408: 21:46:42.946 - Loaded version: "v4.0.30319"
+2408: 21:46:43.478 - Photon host runtime loaded
+2408: 21:46:44.869 - LICENSE: No license file was found. Starting with Bootstrap License.
+2408: 21:46:44.869 - License is valid.
+2408: 21:46:44.869 - Licensed for 20 concurrent connections.
+2408: 21:46:44.869 - ENet: Max Reliable Data In Transit (awaiting ACKs) per peer : 51200 bytes
+2408: 21:46:44.869 - ENet: Per peer bandwidth limit
+2408: 21:46:44.869 - ENet: Transmit Rate Limit: 256 KB/Sec
+2408: 21:46:44.869 - ENet: Limit period: 200ms
+2408: 21:46:44.869 - ENet: Limit per period: 52428 bytes
+2408: 21:46:44.869 - ENet: Max queued data for transmission per peer: 512000 bytes
+2408: 21:46:44.869 - ENet: Minimum retransmit timeout: 200
+2408: 21:46:44.869 - No Maximum retransmit timeout
+2408: 21:46:44.869 - ENet: Minimum timeout: 5000ms
+2408: 21:46:44.869 - ENet: Maximum timeout: 30000ms
+2408: 21:46:44.869 - ENet: Max Inbound Reliable Data Queued (awaiting resends of earlier sequence numbers) per peer : 163840 bytes
+2408: 21:46:44.869 - No RTT ACK adjustment timeout
+2408: 21:46:44.869 - About to load application: MmoDemo from Photon.MmoDemo.Server
+2408: 21:46:44.869 - Application Root Directory: "MMo"
+2408: 21:46:44.869 - Auto restart is enabled for application, existing connections will be terminated during restart
+2408: 21:46:44.869 - Application will restart 1000ms after the last change detected
+2408: 21:46:44.869 - Application will restart if files matching the following are changed: "dll;config"
+2408: 21:46:44.869 - Application will NOT restart if files matching the following are changed: "log4net.config"
+2408: 21:46:44.877 - *******************************************************************************************************************************
+2408: 21:46:44.877 -  Using CustomAssemblyLoader:
+2408: 21:46:44.877 -    PhotonSocketServer.exe is not located in the sub-dir-tree of the configured CLRbaseDirectory 'D:\Work\theGameShop\git\Flipper\Server\FlipperServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\src-server'.
+2408: 21:46:44.877 -    Setting CLRbaseDirectory to 'D:\Work\theGameShop\git\Flipper\Server\FlipperServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\bin_Win32'
+2408: 21:46:44.877 -    WARNING: Your Application logs might be found beside the Photon logs - to fix this check the log4net samples in the demos.
+2408: 21:46:44.877 -    WARNING: Code using AppDomain.CurrentDomain.BaseDirectory, should use ApplicationBase.ApplicationRootPath instead.
+2408: 21:46:44.877 - *******************************************************************************************************************************
+2408: 21:46:45.058 - Taking reference on default app domain
+2408: 21:46:45.194 - Application: "MmoDemo" started in app domain: 2
+2408: 21:46:45.195 - Adding TCP listener on: 0.0.0.0: 4530 with a listen backlog of: 150
+2408: 21:46:45.195 - TCP inactivity timeout: 5000ms
+2408: 21:46:45.195 - TCP disconnect timeout: 120000ms
+2408: 21:46:45.195 - MaxInboundMessageSize: 512000
+2408: 21:46:45.195 - MaxOutboundMessageSize: 512000
+2408: 21:46:45.195 - WARNING: Configuration file node: "PolicyApplication" is obsolete.
+2408: 21:46:45.195 - MaxInboundMessageSize: 512000
+2408: 21:46:45.195 - MaxOutboundMessageSize: 512000
+2408: 21:46:45.195 - UDP address specified as: "0.0.0.0" adding listener to each available IPv4 address
+2408: 21:46:45.197 - Adding UDP listener on: 10.10.160.189: 5055 with a listen backlog of: 500
+2408: 21:46:45.197 - Adding UDP listener on: 127.0.0.1: 5055 with a listen backlog of: 500
+2408: 21:46:45.197 - Adding WebSocket TCP listener on: 0.0.0.0: 9090 with a listen backlog of: 150
+2408: 21:46:45.197 - Nagle disabled
+2408: 21:46:45.197 - TCP inactivity timeout: 10000ms
+2408: 21:46:45.197 - MaxInboundMessageSize: 512000
+2408: 21:46:45.197 - MaxOutboundMessageSize: 512000
+2408: 21:46:45.197 - Forcing all applications ids to: "MmoDemo"
+2408: 21:46:45.197 - Will accept ANY sub-protocols from the client
+2408: 21:46:45.197 - No automatic WebSocket ping
+2408: 21:46:45.216 - Adding Policy File listener on: 0.0.0.0: 843 with a listen backlog of: 150 and serving Policy File: "D:\Work\theGameShop\git\Flipper\Server\FlipperServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\Policy\assets\socket-policy.xml"
+2408: 21:46:45.216 - TCP inactivity timeout: 10000ms
+2408: 21:46:45.221 - Adding Policy File listener on: 0.0.0.0: 943 with a listen backlog of: 150 and serving Policy File: "D:\Work\theGameShop\git\Flipper\Server\FlipperServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\Policy\assets\socket-policy-silverlight.xml"
+2408: 21:46:45.221 - TCP inactivity timeout: 10000ms
+2408: 21:46:45.246 - Service is running...

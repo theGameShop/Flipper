@@ -1,0 +1,1 @@
+D:\Work\theGameShop\git\Flipper\Server\FlipperServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\src-server\Hive\PhotonHive\obj\Debug\PhotonHive.csprojResolveAssemblyReference.cache

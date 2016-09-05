@@ -1,0 +1,5 @@
+D:\Work\theGameShop\git\Flipper\Server\FlipperServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\src-server\HivePlugin\bin\Debug\PhotonHivePlugin.dll
+D:\Work\theGameShop\git\Flipper\Server\FlipperServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\src-server\HivePlugin\bin\Debug\PhotonHivePlugin.pdb
+D:\Work\theGameShop\git\Flipper\Server\FlipperServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\src-server\HivePlugin\obj\Debug\PhotonHivePlugin.csprojResolveAssemblyReference.cache
+D:\Work\theGameShop\git\Flipper\Server\FlipperServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\src-server\HivePlugin\obj\Debug\PhotonHivePlugin.dll
+D:\Work\theGameShop\git\Flipper\Server\FlipperServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\src-server\HivePlugin\obj\Debug\PhotonHivePlugin.pdb
