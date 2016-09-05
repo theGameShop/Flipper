@@ -1,6 +1,8 @@
 ﻿using UnityEngine;
 using System.Collections;
 using Newtonsoft.Json;
+using WebSocketSharp;
+using ExitGames.Client.Photon;
 
 public class Test : MonoBehaviour {
 
