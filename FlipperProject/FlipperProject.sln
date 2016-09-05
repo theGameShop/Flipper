@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlipperProject.CSharp.Plugins", "FlipperProject.CSharp.Plugins.csproj", "{30404804-49E4-B19D-8F2E-5D9FD24821E9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlipperProject.CSharp", "FlipperProject.CSharp.csproj", "{9BAF7058-A301-C823-E4B5-FD25D1730BEB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{30404804-49E4-B19D-8F2E-5D9FD24821E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30404804-49E4-B19D-8F2E-5D9FD24821E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30404804-49E4-B19D-8F2E-5D9FD24821E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30404804-49E4-B19D-8F2E-5D9FD24821E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9BAF7058-A301-C823-E4B5-FD25D1730BEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BAF7058-A301-C823-E4B5-FD25D1730BEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BAF7058-A301-C823-E4B5-FD25D1730BEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BAF7058-A301-C823-E4B5-FD25D1730BEB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
